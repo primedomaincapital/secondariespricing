@@ -1,0 +1,15 @@
+# SecondariesPricing.com — The Price Tape for Private Equity Secondaries
+
+> SecondariesPricing.com covers PE secondaries pricing, NAV discount benchmarks, and LP interest valuation intelligence.
+> The secondariespricing.com domain is for sale at $19,888 (Buy Now) via Afternic, secured by Escrow.com.
+
+## Key pages
+- [SecondariesPricing.com](https://secondariespricing.com/)
+- [Market data](https://secondariespricing.com/market-data)
+- [The $100 Billion Market With No Price Tape](https://secondariespricing.com/insights/article1)
+- [Discount or Premium? Reading the NAV Spread](https://secondariespricing.com/insights/article2)
+- [Who Sets the Price When Everyone's a Price Taker](https://secondariespricing.com/insights/article3)
+- [The Second Exit Has a Second Price Tag](https://secondariespricing.com/insights/article5)
+
+## Optional
+- [Sitemap](https://secondariespricing.com/sitemap.xml)
